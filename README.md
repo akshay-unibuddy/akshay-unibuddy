@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @akshay-unibuddy
+- 👀 I’m interested in coding, reading and riding.
+- 🌱 I’m currently learning nodejs, react and algorithms.
+- 💞️ I’m looking to collaborate on javascript or python projects
+- 📫 How to reach me - akshay@unibuddy.com
